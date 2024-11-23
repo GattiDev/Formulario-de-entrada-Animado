@@ -1,0 +1,2 @@
+# Formulario-de-entrada-Animado
+Este proyecto es un ejemplo de un formulario de entrada animado. El formulario consta de un campo de texto para ingresar el nombre del usuario y un botón para enviar el formulario. Cuando se ingresa texto en el campo de texto y se hace clic en el botón, el formulario se anima y se muestra un mensaje de bienvenida con el nombre del usuario. El proyecto utiliza HTML, CSS y JavaScript para crear la animación y la interacción con el usuario.
